@@ -23,7 +23,7 @@ name                     : "YUN"
 description              : "배운 내용을 간단하게 정리."
 url                      : "https://sener7106.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "sener7106/sener7106.github.io"
+repository               : # "sener7106/s"ener7106.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
